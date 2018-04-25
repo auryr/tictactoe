@@ -1,0 +1,7 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe game using Reacy",
+  "main": "index.js",
+  "license": "MIT"
+}
